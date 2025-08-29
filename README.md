@@ -35,7 +35,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0096D6?style=for-the-badge&logo=opencv&logoColor=whit
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0096D6?style=for-the-badge&logo=opencv&logoColor=white)
 ---
 
 ## 📫 Connect with Me  
